@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
+<h1>Hi 👋, I'm Nishant</h1>
 <h5> Hi, I'm Nishant Giri, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.</h5>
 <hr width = "0">
 
