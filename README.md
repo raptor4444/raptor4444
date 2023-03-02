@@ -6,7 +6,7 @@
 
 - <em>Web Development</em> & <em>Machine Learning</em>
 
-- 📫 How to reach me **nishantgiri19722000@gmail.com**
+- 📫 How to reach me **nishhg4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
