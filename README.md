@@ -1,6 +1,12 @@
-<h1>Hi 👋, I'm <a href="https://raptor4444.github.io/My_Portfolio/" target="_blank">Nishant</a></h1>
+<h1> Hi 👋, I'm <a href="https://raptor4444.github.io/My_Portfolio/" target="_blank">Nishant</a> 🚀 from India.</h1>
+<br>
+<h4>
+  I am a junior at GGSIPU'24, where I am majoring Electronics.
+  <br>
+  <br>
+  I'm currently learning, exploring and exploiting in the field of Machine Learning and Web Development (unofficially).
+</h4>
 
-<h5> Hi, I'm Nishant Giri, a Web Developer and Machine Learning Enthusiast 🚀 from India.</h5>
 <hr width = "0">
 
 
