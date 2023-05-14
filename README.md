@@ -4,7 +4,7 @@
   I am a junior at GGSIPU'24, where I am majoring Electronics.
   <br>
   <br>
-  I'm currently learning, exploring and exploiting in the field of Machine Learning and Web Development (unofficially).
+  I'm currently learning, exploring and exploiting in the field of DevOps, Machine Learning and Web Development (unofficially).
 </h4>
 
 <hr width = "0">
