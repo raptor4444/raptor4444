@@ -1,7 +1,7 @@
 <h1> Hi 👋, I'm <a href="https://raptor4444.github.io/My_Portfolio/" target="_blank">Nishant</a> 🚀 from India.</h1>
 <br>
 <h4>
-  I am a Senior at GGSIPU'24, where I am majoring Electronics.
+  I am a Senior at GGSIPU'24 where I am majoring Electronics.
   <br>
   <br>
   I'm currently learning, exploring and exploiting in the field of DevOps, Machine Learning and Web Development (unofficially).
@@ -10,7 +10,7 @@
 <hr width = "0">
 
 
-- <em>Web Development</em> & <em>Machine Learning</em>
+- <em>Web Development</em> & <em>DevOps</em>
 
 - 📫 How to reach me **nishhg4@gmail.com**
 
